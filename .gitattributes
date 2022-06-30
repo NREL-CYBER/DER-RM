@@ -1,0 +1,2 @@
+DER[[:space:]]Risk[[:space:]]Manager[[:space:]]Setup[[:space:]]0.9.9.zip filter=lfs diff=lfs merge=lfs -text
+DER[[:space:]]Risk[[:space:]]Manager[[:space:]]Setup[[:space:]]0.9.9.exe filter=lfs diff=lfs merge=lfs -text
